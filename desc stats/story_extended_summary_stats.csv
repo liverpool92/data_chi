@@ -1,0 +1,8 @@
+Metric,Value
+Years Covered,"[2018, 2019, 2020, 2021, 2022, 2023, 2024]"
+Total Unique Blocks (GEOIDs),98941
+Total Block-Years,692587
+Gang Control Persistence Rate (%),20.64311054062522
+Gang Expansion Rate (%),0.5904192060588297
+Gang Contraction Rate (%),0.7265272569848024
+Avg. Control Status Changes per Block,1.1185555027743808
